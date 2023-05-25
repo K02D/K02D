@@ -1,5 +1,7 @@
 ## Hi, I'm Kiron
-An aspiring software engineer 
+Rising junior and aspiring software engineer 
+
+Note: this account doesn't contain all of my commits since I've also contributed under school and work GitHub accounts
 <h3 align = "">
     Languages
 </h3>
